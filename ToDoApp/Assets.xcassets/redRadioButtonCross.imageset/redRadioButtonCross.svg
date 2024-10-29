@@ -1,0 +1,25 @@
+<svg width="51" height="30" viewBox="0 0 51 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_110_25)">
+<rect width="50.7062" height="29.925" rx="14.9625" fill="url(#paint0_diamond_110_25)" fill-opacity="0.83"/>
+</g>
+<rect x="2.99377" y="2.99374" width="24.7687" height="23.9375" rx="11.9688" fill="#F4F4F4" fill-opacity="0.5" stroke="#5C0019"/>
+<path d="M20.8976 21.2468L15.6109 15.9517L10.3241 21.2468L9.14374 20.0664L14.4388 14.7796L9.14374 9.49287L10.3241 8.3125L15.6109 13.6076L20.8976 8.32081L22.0697 9.49287L16.7829 14.7796L22.0697 20.0664L20.8976 21.2468Z" fill="#5C0019"/>
+<defs>
+<filter id="filter0_i_110_25" x="0" y="0" width="50.7062" height="29.925" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="3" operator="erode" in="SourceAlpha" result="effect1_innerShadow_110_25"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_110_25"/>
+</filter>
+<radialGradient id="paint0_diamond_110_25" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.3531 14.9625) rotate(90) scale(14.9625 25.3531)">
+<stop stop-color="#C20035" stop-opacity="0.83"/>
+<stop offset="0.425" stop-color="#970029" stop-opacity="0.90225"/>
+<stop offset="1" stop-color="#5C0019"/>
+</radialGradient>
+</defs>
+</svg>

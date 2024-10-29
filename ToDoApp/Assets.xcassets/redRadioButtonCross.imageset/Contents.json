@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "redRadioButtonCross.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
